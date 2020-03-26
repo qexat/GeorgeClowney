@@ -1,0 +1,8 @@
+> help      | Display this message. Followed by a command, gives more informations about the command.
+> salute    | Salute the bot, he will answer you.
+> say       | The bot will say (almost) what you want.
+> identity  | Reveal the identity of the bot. Spoil: not surprising.
+> nespresso | You want a coffee?
+> blacklist | Display the blacklist. Followed by an user, says if this user is blacklisted.
+> version   | Display the version of the bot.
+> credits   | Display the credits of the bot.
